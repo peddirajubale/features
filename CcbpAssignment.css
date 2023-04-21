@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #e66cb1;
+    padding: 20px;
+    background-size: cover;
+}
+
+.profile-container {
+    border: 2px solid #344e7d;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tilte {
+    font-size: 12px;
+    font-family: "Roboto";
+
+}
+
+.heading {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #202124;
+    font-weight: bold;
+}
+
+.status {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #202124;
+}
+
+.line {
+    background-color: black;
+    width: 6px;
+    height: 180px;
+}
+
+.line2 {
+    border: 2px solid black;
+    height: 220px;
+}
+
+.horizotal {
+    border: 2px solid black;
+}
+
+.text {
+    font-size: 12px;
+    color: #212626;
+    font-weight: bold;
+}
+
+.text-status {
+    font-size: 12px;
+    color: #212626;
+}
+
+.date {
+    font-size: 10px;
+    color: #212626;
+    font-weight: bold;
+}
+
+.interst {
+    border: 2px solid #344e7d;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8ceaed;
+}
